@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f40d6a19-18c0-4135-8e1d-04f9a544bd27" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../WS1/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WS1/.idea/ant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WS1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WS1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WS1/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WS1/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WS1/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WS1/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WS1/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WS1/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WS1/src/main/Part1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WS1/src/main/Part2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WS1/src/main/Part3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkShop.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2K5AYPTgx3uoIa70Q27OGl4X84q" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showModules" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Learning-documents/Term2_Java/PRO192/WorkShop/WS3.CarManager",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f40d6a19-18c0-4135-8e1d-04f9a544bd27" name="Changes" comment="" />
+      <created>1673254116506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673254116506</updated>
+    </task>
+    <servers />
+  </component>
+</project>
