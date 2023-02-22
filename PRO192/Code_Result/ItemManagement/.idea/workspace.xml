@@ -4,125 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72612308-3fd1-4148-8640-377b5550608e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../CreatureManagement/src/data/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CreatureManagement/src/data/PricetTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CreatureManagement/src/tdo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CreatureManagement/src/ult/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/Painting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/Statue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/Vase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ult/ItemList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../NWC203c/learning_source/OneDrive_1_1-11-2023.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OSG202/Labs/Labs_Report_NguyenXuanDat_SE172264.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OSG202/Labs/lab4_report_NguyenXuanDat_SE172264.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OSG202/Labs/lab4_report_NguyenXuanDat_SE172264.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OSG202/Slides/02. OS_Concepts.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OSG202/Slides/03. OS_Structure.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OSG202/Slides/Chapter-04-OS.ppt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OSG202/Slides/Chapter-05-IO.ppt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OSG202/Slides/Chapter-06-OS.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OSG202/Slides/Chapter07-VirtualizationAndTheCloud.ppt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OSG202/Slides/Chapter08-MultipleProcessorSystems.ppt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OSG202/Slides/Chapter09-Security.ppt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OSG202/Slides/Chapter10-UNIXandLinuxAndAndroid.ppt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OSG202/Slides/Chapter11-Windows8.ppt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../OSG202/Slides/Chapter12-OperatingSystemDesign.ppt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StaffManagementV2/src/data/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StaffManagementV2/src/data/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StaffManagementV2/src/staffmanagementv2/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StaffManagementV2/src/staffmanagementv2/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/out/production/WS4.ItemManager/Part1/dto/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/out/production/WS4.ItemManager/Part1/dto/Item.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/out/production/WS4.ItemManager/Part1/dto/Painting.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/out/production/WS4.ItemManager/Part1/dto/Painting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/out/production/WS4.ItemManager/Part1/dto/Statue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/out/production/WS4.ItemManager/Part1/dto/Statue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/out/production/WS4.ItemManager/Part1/dto/Vase.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/out/production/WS4.ItemManager/Part1/dto/Vase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/out/production/WS4.ItemManager/Part1/gui/Antique.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/out/production/WS4.ItemManager/Part1/gui/Antique.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/out/production/WS4.ItemManager/Part2.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/out/production/WS4.ItemManager/Part2.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/out/production/WS4.ItemManager/~$Part2.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/src/Part1/dto/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/src/Part1/dto/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/src/Part1/dto/Painting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/src/Part1/dto/Painting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/src/Part1/dto/Statue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/src/Part1/dto/Statue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/src/Part1/dto/Vase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/src/Part1/dto/Vase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/src/Part1/gui/Antique.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/src/Part1/gui/Antique.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/35.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/36.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/37.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/38.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/39.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22 - 2/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/35.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/36.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/37.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/38.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/39.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SSG104/Source_Question/Progress Test 1 SP22/9.jpg" beforeDir="false" />
+    <list default="true" id="ed8193be-8269-4153-b08d-b35e5db23b6b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ItemManagement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part1/dto/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part1/dto/Painting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part1/dto/Statue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part1/dto/Vase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part1/gui/AntiqueShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part1/ui/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part1/ult/ItemList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreatureManagement/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreatureManagement/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreatureManagement/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ItemManagement.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -132,50 +37,40 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="2" />
+  <component name="ProjectId" id="2M65uA7YhpT0nQqWxTfBK96tVqy" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectId" id="2Lz7JT8arkRRACTekaeYRDZdF8k" />
   <component name="ProjectViewState">
-    <option name="autoscrollFromSource" value="true" />
-    <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
-    <option name="showMembers" value="true" />
-    <option name="showModules" value="false" />
-    <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Learning-documents/Term2_Java/PRO192/Code_Result/ItemManagement"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Adm/Desktop/Term2_Java_FPT_MyDocument/PRO192/WorkShop/WS4.ItemManager"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="72612308-3fd1-4148-8640-377b5550608e" name="Changes" comment="" />
-      <created>1676861984682</created>
+      <changelist id="ed8193be-8269-4153-b08d-b35e5db23b6b" name="Changes" comment="" />
+      <created>1677075419787</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1676861984682</updated>
+      <updated>1677075419787</updated>
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
-          <option name="timeStamp" value="1" />
-        </breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
