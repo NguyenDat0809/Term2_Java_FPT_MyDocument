@@ -12,16 +12,20 @@ package data;
 public class Course {
         private String name;
         private int credit;
-        
+        private int fee;
         
 public Course(){
     
 }
-
-    public Course(String name, int credit) {
+public Course(String name, int credit) {
         this.name = name;
         this.credit = credit;
-        
+    }
+
+    public Course(String name, int credit, int fee) {
+        this.name = name;
+        this.credit = credit;
+        this.fee = fee;
     }
 
     public String getName() {
@@ -42,8 +46,9 @@ public Course(){
 
     @Override
     public String toString() {
-        return "Course{" + "name=" + name + ", credit=" + credit + '}';
+        return "Course{" + "name=" + name + ", credit=" + credit + ", fee=" + fee + '}';
     }
+    
     
 
 }

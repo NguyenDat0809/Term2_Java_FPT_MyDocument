@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8799a6f3-f900-4295-984c-56dc085ffc67" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ItemManagement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ItemManagement/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkShop/MyLib/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkShop/MyLib/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkShop/W3plus.PhoneManagement/out/production/W3plus.PhoneManagement/data/OS.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkShop/W3plus.PhoneManagement/out/production/W3plus.PhoneManagement/data/OS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkShop/W3plus.PhoneManagement/out/production/W3plus.PhoneManagement/data/PIN.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkShop/W3plus.PhoneManagement/out/production/W3plus.PhoneManagement/data/PIN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkShop/W3plus.PhoneManagement/out/production/W3plus.PhoneManagement/data/SmartPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkShop/W3plus.PhoneManagement/out/production/W3plus.PhoneManagement/data/SmartPhone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkShop/W3plus.PhoneManagement/src/data/OS.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkShop/W3plus.PhoneManagement/src/data/OS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkShop/W3plus.PhoneManagement/src/data/PIN.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkShop/W3plus.PhoneManagement/src/data/PIN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkShop/W3plus.PhoneManagement/src/data/SmartPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkShop/W3plus.PhoneManagement/src/data/SmartPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkShop/WS1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkShop/WS1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkShop/WS2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkShop/WS2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WorkShop/WS4.ItemManager/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2LnqAUfTY8fk1y3nuVpwaWwPcuo" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showModules" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Learning-documents/Term2_Java/PRO192/Code_Result/Hashmap"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8799a6f3-f900-4295-984c-56dc085ffc67" name="Changes" comment="" />
+      <created>1676517050836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676517050836</updated>
+    </task>
+    <servers />
+  </component>
+</project>
